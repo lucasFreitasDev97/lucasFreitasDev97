@@ -1,7 +1,6 @@
 ## Hello, I'm Lucas Freitas 👋
 
-- 🔭 I’m currently working on back-end with laravel
-- 🌱 I’m currently learning java
+- 🔭 I’m back-end developer working with laravel
 - 😄 Pronouns: He / They
 
 <div>
